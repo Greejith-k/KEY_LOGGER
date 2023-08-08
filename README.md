@@ -14,25 +14,26 @@ Major features
 Features:
 
 
-Stealthy Monitoring: CovertKey operates discreetly in the background, capturing user keystrokes without detection, and logging them for analysis.
+1. Stealthy Monitoring: CovertKey operates discreetly in the background, capturing user keystrokes without detection, and logging them for analysis.
 
-Local Storage: Logged keystrokes are securely stored locally for analysis, allowing users to gain insights into potential security vulnerabilities.
+2. Local Storage: Logged keystrokes are securely stored locally for analysis, allowing users to gain insights into potential security vulnerabilities.
 
-Educational Tool: This project serves as an educational tool to illustrate how keyloggers can be created and used by malicious actors, thus highlighting the importance of cybersecurity awareness and robust defense mechanisms.
+3. Educational Tool: This project serves as an educational tool to illustrate how keyloggers can be created and used by malicious actors, thus highlighting the importance of cybersecurity awareness 
+   and robust defense mechanisms.
 
-Ethical Use: CovertKey is intended for ethical and legal purposes only, such as demonstrating the importance of strong security measures to protect sensitive information.
+4. Ethical Use: CovertKey is intended for ethical and legal purposes only, such as demonstrating the importance of strong security measures to protect sensitive information.
 
 
 
 Please Note:
 
-This project is intended to be used responsibly and legally, for educational and research purposes.
+1. This project is intended to be used responsibly and legally, for educational and research purposes.
 
-The creators and contributors of CovertKey do not endorse or encourage any malicious or unauthorized use of keyloggers.
+2. The creators and contributors of CovertKey do not endorse or encourage any malicious or unauthorized use of keyloggers.
 
-Users are advised to comply with all applicable laws and regulations while using this project.
+3. Users are advised to comply with all applicable laws and regulations while using this project.
 
-Use of this project for any illegal, unethical, or harmful activities is strictly discouraged.
+4. Use of this project for any illegal, unethical, or harmful activities is strictly discouraged.
 
 Remember, understanding cybersecurity threats and vulnerabilities is crucial in today's digital world. CovertKey aims to contribute to this understanding in an ethical and educational manner.
 
