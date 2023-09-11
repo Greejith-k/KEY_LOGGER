@@ -31,7 +31,7 @@ os.chdir("C:/Users")
 useerdir=os.listdir()
 
 
-username=os.getuid()
+username=os.getlogin()
 
 os.chdir(workpth)
 
